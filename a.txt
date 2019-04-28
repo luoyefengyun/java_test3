@@ -1,11 +1,2 @@
 this is a
-
-this is b
-
-this is c
-
-this is d
-
-this ia e
-
-this is f
+111
